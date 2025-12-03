@@ -22,6 +22,5 @@ Base de datos distribuida de Microsoft Azure.
 7. 🦁**Pipelines*
 Conjunto de etapas automatizadas en procesos de CI/CD que permiten la integración, pruebas y despliegue continuo.
 
-
-
+8.🦍**PREFETCH:** Prefetch es la técnica de anticipar y cargar instrucciones o datos en caché antes de que sean necesarios, para mejorar el rendimiento.
 
