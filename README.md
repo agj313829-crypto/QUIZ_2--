@@ -19,8 +19,8 @@ Base de datos distribuida de Microsoft Azure.
 6. 💵**RAM**
  Memoria de acceso aleatorio de un sistema.
 
-7. 🦁**Pipelines*
+7. 🦁**PIPELINES**
 Conjunto de etapas automatizadas en procesos de CI/CD que permiten la integración, pruebas y despliegue continuo.
 
-8.🦍**PREFETCH:** Prefetch es la técnica de anticipar y cargar instrucciones o datos en caché antes de que sean necesarios, para mejorar el rendimiento.
+8.🦍**PREFETCH** Prefetch es la técnica de anticipar y cargar instrucciones o datos en caché antes de que sean necesarios, para mejorar el rendimiento.
 
